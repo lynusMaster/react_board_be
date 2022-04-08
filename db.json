@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "첫번째 글",
+      "author": "익명1",
+      "content": "이건 첫번째 글이다!"
+    },
+    {
+      "id": "2",
+      "title": "두번째 글",
+      "author": "익명2",
+      "content": "이건 두번째 글이다!!"
+    },
+    {
+      "id": "WbNBL0892",
+      "title": "이것은",
+      "author": "네번째",
+      "content": "글입니다"
+    },
+    {
+      "id": "nbTn9HXqX",
+      "title": "abc",
+      "author": "super",
+      "content": "hello~~"
+    }
+  ]
+}
